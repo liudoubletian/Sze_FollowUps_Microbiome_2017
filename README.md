@@ -71,3 +71,4 @@ carcinoma, but these changes were towards a more normal microbiota.
 #### Running analysis  
 ```git clone https://github.com/SchlossLab/Baxter_followUps_2016```  
 ```make write.paper```
+Reference : Normalization of the microbiota in patients after treatment for colonic lesions
